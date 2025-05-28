@@ -1,1 +1,2 @@
-Estou fazendo o Push de arquivo para testar agora.
+Estou fazendo o Push de arquivo para testar agora
+Estou fazendo um commit pelo própio github e pela IDE
